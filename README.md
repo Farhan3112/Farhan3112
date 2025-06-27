@@ -19,7 +19,7 @@
   <a href="https://twitter.com/https://x.com/farhan_3112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/farhan_3112" height="30" width="40" /></a>
   <a href="https://instagram.com/https://www.instagram.com/_i_am_farhan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_i_am_farhan_" height="30" width="40" /></a>
 </p>
-
+<br>
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
   <img width="900px" src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,tailwind,js,typescript,react,nextjs,nodejs,express,mongo,git,vscode&perline=17"/>
