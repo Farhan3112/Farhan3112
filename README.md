@@ -7,7 +7,7 @@
 
 <ul>
   <li>🌱 I’m currently learning <strong>MERN</strong></li>
-  <li>💬 Ask me about <strong>Full Stack Web Development, React JS, Node JS, Next JS.</strong></li>
+  <li>💬 Ask me about <strong>React JS, Frontend development.</strong></li>
   <li>📫 How to reach me: <strong>farhan.y2k.me@gmail.com</strong></li>
   <li>⚡ Fun fact: <strong>I Love To Code And Watch Anime</strong></li>
 </ul>
