@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Farhan Shamshad</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/anime-gif-25123844" style="border-radius: 15px;">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBncDU3bGdybjNwZGxodW51OXRsNDdsZWN2cDVkaGJxZTBodDdwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vLi3T5m3RH45y/giphy.gif" style="border-radius: 15px;">
 
 <ul>
   <li>🌱 I’m currently learning <strong>MERN</strong></li>
