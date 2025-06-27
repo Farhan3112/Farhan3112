@@ -22,7 +22,7 @@
 <br>
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
-  <img width="900px" src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,tailwind,js,typescript,react,nextjs,nodejs,express,mongo,git,vscode&perline=17"/>
+  <img width="900px" src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,tailwind,js,typescript,react,redux,nextjs,nodejs,express,mongo,git,vscode&perline=17"/>
 </p>
 
 <h2 align="center">Stats</h2>
